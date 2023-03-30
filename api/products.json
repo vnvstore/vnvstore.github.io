@@ -8,7 +8,7 @@
     "price": 1429000,
     "rating": 4.0,
     "description": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
-    "store_name": "Nike Indonesia",
+    "storeName": "Nike Indonesia",
     "colors": [
       {
         "name": "black",
@@ -47,19 +47,19 @@
     ],
     "reviews": [
       {
-        "photo_url": "assets/images/avatar1.jpg",
+        "photoUrl": "assets/images/avatar1.jpg",
         "name": "Uchiha Sasuke",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar2.jpg",
+        "photoUrl": "assets/images/avatar2.jpg",
         "name": "Uzumaki Naruto",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar3.jpg",
+        "photoUrl": "assets/images/avatar3.jpg",
         "name": "Kurokooo Tetsuya",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
@@ -75,7 +75,7 @@
     "price": 1429000,
     "rating": 4.0,
     "description": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
-    "store_name": "Nike Indonesia",
+    "storeName": "Nike Indonesia",
     "colors": [
       {
         "name": "black",
@@ -114,19 +114,19 @@
     ],
     "reviews": [
       {
-        "photo_url": "assets/images/avatar1.jpg",
+        "photoUrl": "assets/images/avatar1.jpg",
         "name": "Uchiha Sasuke",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar2.jpg",
+        "photoUrl": "assets/images/avatar2.jpg",
         "name": "Uzumaki Naruto",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar3.jpg",
+        "photoUrl": "assets/images/avatar3.jpg",
         "name": "Kurokooo Tetsuya",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
@@ -143,7 +143,7 @@
     "price": 849000,
     "rating": 4.0,
     "description": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
-    "store_name": "Nike Indonesia",
+    "storeName": "Nike Indonesia",
     "colors": [
       {
         "name": "black",
@@ -182,19 +182,19 @@
     ],
     "reviews": [
       {
-        "photo_url": "assets/images/avatar1.jpg",
+        "photoUrl": "assets/images/avatar1.jpg",
         "name": "Uchiha Sasuke",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar2.jpg",
+        "photoUrl": "assets/images/avatar2.jpg",
         "name": "Uzumaki Naruto",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar3.jpg",
+        "photoUrl": "assets/images/avatar3.jpg",
         "name": "Kurokooo Tetsuya",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
@@ -210,7 +210,7 @@
     "price": 1900000,
     "rating": 4.0,
     "description": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
-    "store_name": "Adidas Indonesia",
+    "storeName": "Adidas Indonesia",
     "colors": [
       {
         "name": "black",
@@ -249,19 +249,19 @@
     ],
     "reviews": [
       {
-        "photo_url": "assets/images/avatar1.jpg",
+        "photoUrl": "assets/images/avatar1.jpg",
         "name": "Uchiha Sasuke",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar2.jpg",
+        "photoUrl": "assets/images/avatar2.jpg",
         "name": "Uzumaki Naruto",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
       },
       {
-        "photo_url": "assets/images/avatar3.jpg",
+        "photoUrl": "assets/images/avatar3.jpg",
         "name": "Kurokooo Tetsuya",
         "review": "Bringing a new look to the Waffle sneaker family, the Nike Waffle One balances everything you love about heritage Nike running with fresh innovations.",
         "rating": 4.0
