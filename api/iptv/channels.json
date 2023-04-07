@@ -29,6 +29,8 @@
       "closed": null,
       "replaced_by": null,
       "url": "https://www.002radio.com/",
-      "logo": "https://i.imgur.com/7oNe8xj.png"
+      "logo": "https://i.imgur.com/7oNe8xj.png",
+      "tvg": {"id":"002RadioTV.do","name":"002 Radio TV", "url":"https://www.002radio.com/"}
+
     }
 ]
