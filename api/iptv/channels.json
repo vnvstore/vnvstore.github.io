@@ -14,19 +14,67 @@
       ]
     },
     {
-      "name": "RECORDTV HD",
-      "logo": "https://vnvstore.github.io/images/logo_recordtv.png",
-      "url": "http://xcui.vitvabc.xyz:8880/28799401d73d/28799401d73d/16748",
+      "name": "One Golf",
+      "logo": "https://i.imgur.com/7JhaEW5.png",
+      "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
       "categories": [
-        {"name":"Travel","slug":"travel"}
+        {"name":"Sports","slug":"sports"}
       ],
       "countries": [
-        {"name":"Brazil","code":"br"}
+        {"name":"Pakistan","code":"pk"}
+      ],
+      "languages": [
+        {"name":"English","code":"en"}
+      ]
+    },
+   
+    {
+      "name": "SportsGrid",
+      "logo": "https://i.imgur.com/ulGKX30.png",
+      "url": "https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8",
+      "categories": [
+        {"name":"Sports","slug":"sports"}
+      ],
+      "countries": [
+        {"name":"Canada","code":"ca"}
+      ],
+      "languages": [
+        {"name":"English","code":"en"}
+      ]
+    },
+
+
+    {
+      "name": "Sportskool TV",
+      "logo": "https://i.imgur.com/R6FsKYj.png",
+      "url": "https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8",
+      "categories": [
+        {"name":"Sports","slug":"sports"}
+      ],
+      "countries": [
+        {"name":"Pakistan","code":"pk"}
+      ],
+      "languages": [
+        {"name":"English","code":"en"}
+      ]
+    },
+    {
+      "name": "SportsMax",
+      "logo": "https://i.imgur.com/FBYjSCt.png",
+      "url": "http://cdn.tvmatic.net/sport.m3u8",
+      "categories": [
+        {"name":"Sports","slug":"sports"}
+      ],
+      "countries": [
+        {"name":"Jamaica","code":"jm"}
       ],
       "languages": [
         {"name":"English","code":"en"}
       ]
     }
 
+
+ 
+   
 
 ]
