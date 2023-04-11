@@ -20,7 +20,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -42,7 +42,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -64,7 +64,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -86,7 +86,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -108,7 +108,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -130,7 +130,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -152,7 +152,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -174,7 +174,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -196,7 +196,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -218,7 +218,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -240,7 +240,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -262,7 +262,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -284,7 +284,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -306,7 +306,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -328,7 +328,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -350,7 +350,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -372,7 +372,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -394,7 +394,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -416,7 +416,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -438,7 +438,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -460,7 +460,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -482,7 +482,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -504,7 +504,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -526,7 +526,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -548,7 +548,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -570,7 +570,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -592,7 +592,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -614,7 +614,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -636,7 +636,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -658,7 +658,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -680,7 +680,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -702,7 +702,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -724,7 +724,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -746,7 +746,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -768,7 +768,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -790,7 +790,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -812,7 +812,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -834,7 +834,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -856,7 +856,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -878,7 +878,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -900,7 +900,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -922,7 +922,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -944,7 +944,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -966,7 +966,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -988,7 +988,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1010,7 +1010,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1032,7 +1032,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1054,7 +1054,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1076,7 +1076,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1098,7 +1098,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1120,7 +1120,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1142,7 +1142,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1164,7 +1164,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1186,7 +1186,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1208,7 +1208,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1230,7 +1230,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1252,7 +1252,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1274,7 +1274,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1296,7 +1296,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1318,7 +1318,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1340,7 +1340,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1362,7 +1362,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1384,7 +1384,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1406,7 +1406,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1428,7 +1428,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1450,7 +1450,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1472,7 +1472,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1494,7 +1494,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1516,7 +1516,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1538,7 +1538,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1560,7 +1560,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1582,7 +1582,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1604,7 +1604,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1626,7 +1626,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1648,7 +1648,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1670,7 +1670,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1692,7 +1692,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
@@ -1714,7 +1714,7 @@
       "categories": [
           {
               "name": "Sports",
-              "code": "sports"
+              "slug": "sports"
           }
       ],
       "countries": [
