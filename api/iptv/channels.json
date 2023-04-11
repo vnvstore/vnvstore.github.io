@@ -12,6 +12,23 @@
       "languages": [
         {"name":"Spain","code":"spa"}
       ]
+    },
+
+    {
+      "name": "Flow Sports",
+      "logo": "https://www.flosports.tv/wp-content/uploads/2020/04/FloSports-igniteblack-1.png",
+      "url": "http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/282764",
+      "categories": [
+        {"name":"Sports","slug":"sports"}
+      ],
+      "countries": [
+        {"name":"Galibi Carib","code":"car"}
+      ],
+      "languages": [
+        {"name":"English","code":"en"}
+      ]
     }
+   
+
 
 ]
