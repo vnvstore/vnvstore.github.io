@@ -28,21 +28,7 @@
       ]
     },
    
-    {
-      "name": "SportsGrid",
-      "logo": "https://i.imgur.com/ulGKX30.png",
-      "url": "https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8",
-      "categories": [
-        {"name":"Sports","slug":"sports"}
-      ],
-      "countries": [
-        {"name":"Canada","code":"ca"}
-      ],
-      "languages": [
-        {"name":"English","code":"en"}
-      ]
-    },
-
+   
 
     {
       "name": "Sportskool TV",
@@ -52,7 +38,7 @@
         {"name":"Sports","slug":"sports"}
       ],
       "countries": [
-        {"name":"Pakistan","code":"pk"}
+        {"name":"United States","code":"us"}
       ],
       "languages": [
         {"name":"English","code":"en"}
