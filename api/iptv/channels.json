@@ -13,22 +13,20 @@
         {"name":"Spain","code":"spa"}
       ]
     },
-
     {
-      "name": "Flow Sports",
-      "logo": "https://www.flosports.tv/wp-content/uploads/2020/04/FloSports-igniteblack-1.png",
-      "url": "http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/282764",
+      "name": "RECORDTV HD",
+      "logo": "vnvstore.github.io/images/logo_recordtv.png",
+      "url": "http://xcui.vitvabc.xyz:8880/28799401d73d/28799401d73d/16748",
       "categories": [
-        {"name":"Sports","slug":"sports"}
+        {"name":"Travel","slug":"travel"}
       ],
       "countries": [
-        {"name":"Galibi Carib","code":"car"}
+        {"name":"Brazil","code":"br"}
       ],
       "languages": [
         {"name":"English","code":"en"}
       ]
     }
-   
 
 
 ]
