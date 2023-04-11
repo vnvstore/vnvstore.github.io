@@ -190,28 +190,6 @@
           }
       ]
   },{
-      "name": "CCTV-5\u4f53\u80b2 (1080p)",
-      "logo": "https://i.imgur.com/EqURkoF.png",
-      "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
       "name": "CDR (720p)",
       "logo": "https://i.imgur.com/xevZNi6.png",
       "url": "https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8",
@@ -630,28 +608,6 @@
           }
       ]
   },{
-      "name": "\u0130dman TV (576p)",
-      "logo": "https://i.imgur.com/fM9FOrZ.png",
-      "url": "http://109.205.166.68/server124/idman_az/index.m3u8",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
       "name": "Insight TV (1080p)",
       "logo": "https://i.imgur.com/7xmaoL0.png",
       "url": "https://insighttv-vizio.amagi.tv/playlist.m3u8",
@@ -897,28 +853,6 @@
       "name": "Pluto TV Bellator MMA (720p)",
       "logo": "https://i.imgur.com/VBKoLHk.png",
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGSff",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
-      "name": "Pluto TV Extr\u00eame (480p)",
-      "logo": "https://i.imgur.com/b1xrzns.png",
-      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
       "categories": [
           {
               "name": "Sports",
@@ -1510,28 +1444,6 @@
           }
       ]
   },{
-      "name": "Turf M\u00f3vil (720p)",
-      "logo": "https://i.imgur.com/TwIe4lK.png",
-      "url": "https://janus.tvturf.cl/playlist/stream.m3u8",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
       "name": "TV 2 Sport 1 (720p)",
       "logo": "https://i.imgur.com/asKHqNZ.png",
       "url": "https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8",
@@ -1799,94 +1711,6 @@
       "name": "Yas (1080p)",
       "logo": "https://i.imgur.com/bvAAXLW.png",
       "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
-      "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c.Ru Sport (720p)",
-      "logo": "https://i.imgur.com/BKaEtqL.png",
-      "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
-      "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u042d\u043a\u0441\u0442\u0440\u0438\u043c",
-      "logo": "https://i.imgur.com/qjx6zZV.png",
-      "url": "http://vid.extremtv.ru/hls_get/cameraFeed.m3u8",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
-      "name": "\u0421\u0442\u0430\u0440\u0442 (1080p)",
-      "logo": "https://i.imgur.com/VBqVkno.png",
-      "url": "https://strm.yandex.ru/kal/start/start0.m3u8",
-      "categories": [
-          {
-              "name": "Sports",
-              "code": "sports"
-          }
-      ],
-      "countries": [
-          {
-              "name": "United States",
-              "code": "us"
-          }
-      ],
-      "languages": [
-          {
-              "name": "English",
-              "code": "en"
-          }
-      ]
-  },{
-      "name": "\u5e7f\u4e1c\u4f53\u80b2 (720p)",
-      "logo": "https://i.imgur.com/AcGbrzc.png",
-      "url": "http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=",
       "categories": [
           {
               "name": "Sports",
