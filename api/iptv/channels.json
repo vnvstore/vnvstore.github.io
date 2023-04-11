@@ -15,7 +15,7 @@
     },
     {
       "name": "RECORDTV HD",
-      "logo": "vnvstore.github.io/images/logo_recordtv.png",
+      "logo": "https://vnvstore.github.io/images/logo_recordtv.png",
       "url": "http://xcui.vitvabc.xyz:8880/28799401d73d/28799401d73d/16748",
       "categories": [
         {"name":"Travel","slug":"travel"}
