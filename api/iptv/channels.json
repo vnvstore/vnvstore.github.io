@@ -1518,29 +1518,6 @@
         ]
     },
     {
-        "name": "Pluto TV Drama (England) (720p)",
-        "logo": "https://i.imgur.com/r4LVVQW.png",
-        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91149880d60009d35d27&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=402&terminate=false&userId=",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": null,
-                "code": "uk"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Pluto TV Drama Life (720p)",
         "logo": "https://i.imgur.com/4YJ60Ce.png",
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f24662bebe0f0000767de32&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=332&terminate=false&userId=",
@@ -1715,29 +1692,6 @@
             {
                 "name": "United States",
                 "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Pluto TV Romance (England) (720p)",
-        "logo": "https://i.imgur.com/0jHyTvu.png",
-        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677c0edace7cff8180b16&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": null,
-                "code": "uk"
             }
         ],
         "languages": [
@@ -1978,29 +1932,6 @@
         ]
     },
     {
-        "name": "Rakuten Action Movies UK (720p)",
-        "logo": "https://i.imgur.com/uMcwx2p.jpg",
-        "url": "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": null,
-                "code": "uk"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Rakuten Comedy Movies",
         "logo": "https://i.imgur.com/H08jcJi.png",
         "url": "https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8",
@@ -2116,29 +2047,6 @@
         ]
     },
     {
-        "name": "Rakuten Comedy Movies UK (720p)",
-        "logo": "https://i.imgur.com/UrwA8Z3.png",
-        "url": "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": null,
-                "code": "uk"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Rakuten Drama",
         "logo": "https://i.imgur.com/W1sJ1JW.png",
         "url": "https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8",
@@ -2198,29 +2106,6 @@
             {
                 "name": "France",
                 "code": "fr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Rakuten Family UK (720p)",
-        "logo": "https://i.imgur.com/hboiinD.jpg",
-        "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Family;Movies",
-                "slug": "family;movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": null,
-                "code": "uk"
             }
         ],
         "languages": [
@@ -2313,29 +2198,6 @@
             {
                 "name": "Italy",
                 "code": "it"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Rakuten Spotlight UK (720p)",
-        "logo": "https://i.imgur.com/dWNxCqp.png",
-        "url": "https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": null,
-                "code": "uk"
             }
         ],
         "languages": [
