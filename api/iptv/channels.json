@@ -2873,5 +2873,3294 @@
                 "code": "en"
             }
         ]
+    },
+    {
+        "name": "1Music Channel Hungary (576p)",
+        "logo": "https://i.imgur.com/pzU6FrQ.png",
+        "url": "http://1music.hu/1music.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Hungary",
+                "code": "hu"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "9XM (480p)",
+        "logo": "https://i.imgur.com/F17QtN2.png",
+        "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "India",
+                "code": "in"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "30A Music (720p)",
+        "logo": "https://i.imgur.com/gNWg9tl.png",
+        "url": "https://30a-tv.com/music.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "101 Tele Antequera (1080p)",
+        "logo": "https://i.imgur.com/skXiSaf.png",
+        "url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Spain",
+                "code": "es"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "ADRIA Music (1080p)",
+        "logo": "https://i.imgur.com/QoDpnKg.png",
+        "url": "https://serve-first.folxplay.tv/folx/ch-1/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Amordiscos (480p)",
+        "logo": "https://i.imgur.com/hO0cTDf.png",
+        "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Colombia",
+                "code": "co"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Arabica TV (720p)",
+        "logo": "https://i.imgur.com/sTOoDy1.png",
+        "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Lebanon",
+                "code": "lb"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Atomic TV (360p)",
+        "logo": "https://i.imgur.com/O4uI0Uy.png",
+        "url": "https://atomic.streamnet.ro/atomictv.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Romania",
+                "code": "ro"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Baraza TV (1080p)",
+        "logo": "https://i.imgur.com/TZ1unwF.png",
+        "url": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Greece",
+                "code": "gr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Barbud Music (720p)",
+        "logo": "https://i.imgur.com/jbbxu0g.png",
+        "url": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Afghanistan",
+                "code": "af"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "BE@TTV (1080p)",
+        "logo": "https://i.imgur.com/egK33Dj.png",
+        "url": "https://tv.beatfm.nl/live.m3u8",
+        "categories": [
+            {
+                "name": "Entertainment;Music",
+                "slug": "entertainment;music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Netherlands",
+                "code": "nl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Beats Radio (480p)",
+        "logo": "https://i.imgur.com/zkNUO5p.png",
+        "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Argentina",
+                "code": "ar"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Belmedia TV (1080p)",
+        "logo": "https://i.imgur.com/xEbQsdj.png",
+        "url": "https://ythls.onrender.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Best Cable Mas Cumbia",
+        "logo": "https://i.imgur.com/zgEvssl.png",
+        "url": "https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Peru",
+                "code": "pe"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Best Cable Music",
+        "logo": "https://i.imgur.com/PXm4osQ.png",
+        "url": "https://ca2.inka.net.pe/bestcablemusic/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Peru",
+                "code": "pe"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Bibel TV Musik (720p)",
+        "logo": "https://i.imgur.com/yIqOcP5.png",
+        "url": "http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "BMTV (360p)",
+        "logo": "https://i.imgur.com/bJ0ODh6.png",
+        "url": "https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Brazil",
+                "code": "br"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Cantina TV (1080p)",
+        "logo": "https://i.imgur.com/JWMk2fP.png",
+        "url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Venezuela, RB",
+                "code": "ve"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "City Music TV (720p)",
+        "logo": "https://i.imgur.com/pGBRsjO.png",
+        "url": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Belgium",
+                "code": "be"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Clubbing TV (720p)",
+        "logo": "https://i.imgur.com/8giAFx5.png",
+        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "France",
+                "code": "fr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "CMC (California Music Channel)",
+        "logo": "https://i.imgur.com/L38mC6H.png",
+        "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Company TV (720p)",
+        "logo": "https://i.imgur.com/ccdwsWj.png",
+        "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Italy",
+                "code": "it"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Conecta TV (720p)",
+        "logo": "https://i.imgur.com/qEk0QGa.png",
+        "url": "http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Mexico",
+                "code": "mx"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Dance FM (720p)",
+        "logo": "https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png",
+        "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Deluxe Lounge HD",
+        "logo": "https://i.imgur.com/DnMzWiG.png",
+        "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Deluxe Music (720p)",
+        "logo": "https://i.imgur.com/XWWTrKW.png",
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "El Sol Network TV",
+        "logo": "https://i.imgur.com/TIH3zlP.png",
+        "url": "https://rctvhd.net:8081/elsol105fm/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Ecuador",
+                "code": "ec"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Euro Indie Music Chart TV (360p)",
+        "logo": "https://i.imgur.com/lF0iofX.png",
+        "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Italy",
+                "code": "it"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Eurolatina TV (720p)",
+        "logo": "https://i.imgur.com/s2KcWnr.png",
+        "url": "https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Culture;Music",
+                "slug": "culture;music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Spain",
+                "code": "es"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Faithlife TV Christmas Music (720p)",
+        "logo": "https://i.imgur.com/75Sq48R.png",
+        "url": "https://vse2-na-us-ne24.secdn.net/logos-channel/live/christmas/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Animation;Entertainment;Music;Religious",
+                "slug": "animation;entertainment;music;religious"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Falastini (720p)",
+        "logo": "https://i.imgur.com/h1N60QR.png",
+        "url": "https://cdg8.edge.technocdn.com/palestiniantv_source/live/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "West Bank and Gaza",
+                "code": "ps"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "FOLX Music (1080p)",
+        "logo": "https://i.imgur.com/ze04puX.png",
+        "url": "https://serve-first.folxplay.tv/folx/ch-4/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "FOLX Slovenija (1080p)",
+        "logo": "https://i.imgur.com/RK1IASU.png",
+        "url": "https://serve-first.folxplay.tv/folx/ch-5/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Slovenia",
+                "code": "si"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Fresh TV (720p)",
+        "logo": "https://i.imgur.com/gcFSxrm.png",
+        "url": "https://freshtv.catcast.tv/content/33718/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Armenia",
+                "code": "am"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "GO-RTV (720p)",
+        "logo": "https://i.imgur.com/zAFt893.png",
+        "url": "http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Netherlands",
+                "code": "nl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "H!T Music Channel (480p)",
+        "logo": "https://i.imgur.com/sqC2hqV.png",
+        "url": "http://hitmusic.hu/hitmusic.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Hungary",
+                "code": "hu"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Hatun TV",
+        "logo": "https://i.imgur.com/cWz2vgV.png",
+        "url": "https://ca2.inka.net.pe/bestcablehatuntv/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Peru",
+                "code": "pe"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "HITV (1080p)",
+        "logo": "https://i.imgur.com/Mr9AJxK.png",
+        "url": "https://strm.yandex.ru/kal/hittv/hittv0.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Russian Federation",
+                "code": "ru"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Huila TV",
+        "logo": "https://i.imgur.com/hFlGHNZ.png",
+        "url": "https://plataformavideo.com:19360/8020/8020.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Colombia",
+                "code": "co"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Interradio TV (1080p)",
+        "logo": "https://i.imgur.com/3875n4G.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-13214/LVW13214_wLcadZJaYb/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "IQ Channel (720p)",
+        "logo": "https://i.imgur.com/hwuaomt.png",
+        "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Costa Rica",
+                "code": "cr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Isai Aruvi (576p)",
+        "logo": "https://i.imgur.com/yO18FLo.png",
+        "url": "http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "India",
+                "code": "in"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Ivoire Channel (720p)",
+        "logo": "https://i.imgur.com/gKbNqQv.png",
+        "url": "https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Cote d'Ivoire",
+                "code": "ci"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Kronehit (1080p)",
+        "logo": "https://i.imgur.com/dQJQv1X.png",
+        "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Austria",
+                "code": "at"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Kuriakos Music (1080p)",
+        "logo": "https://i.imgur.com/Zl40NYi.jpg",
+        "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Portugal",
+                "code": "pt"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "La Chilena TV",
+        "logo": "https://i.imgur.com/GHJkxaB.png",
+        "url": "https://vdochile.com:3134/hybrid/play.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Latido Music (720p)",
+        "logo": "https://i.imgur.com/p3n3CZP.jpg",
+        "url": "https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Latinos Radio",
+        "logo": "https://i.imgur.com/u6nkxrx.png",
+        "url": "https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "M2 (540p)",
+        "logo": "https://i.imgur.com/9ffrXBg.png",
+        "url": "http://live.m2.tv/hls3/stream.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Ukraine",
+                "code": "ua"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "M6 Music (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png",
+        "url": "http://190.2.155.162:8080/m6music/mpegts",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "France",
+                "code": "fr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Magic TV (480p)",
+        "logo": "https://i.imgur.com/QZQhg6C.png",
+        "url": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Greece",
+                "code": "gr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Master Show TV (360p)",
+        "logo": "https://i.imgur.com/haXHFCT.png",
+        "url": "https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Brazil",
+                "code": "br"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "MBC America (480p)",
+        "logo": "https://i.imgur.com/RRc23ra.png",
+        "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
+        "categories": [
+            {
+                "name": "Culture;Entertainment;Music",
+                "slug": "culture;entertainment;music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Melody Channel Colombia (480p)",
+        "logo": "https://i.imgur.com/z2pisQ6.png",
+        "url": "https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Colombia",
+                "code": "co"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Metropolitana FM",
+        "logo": "https://i.imgur.com/hWIGeHw.png",
+        "url": "https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Argentina",
+                "code": "ar"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Molahits TV (720p)",
+        "logo": "https://i.imgur.com/FYcLtqT.png",
+        "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Spain",
+                "code": "es"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Mun2TV (720p)",
+        "logo": "https://i.imgur.com/e38DNzI.png",
+        "url": "https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Dominican Republic",
+                "code": "do"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Music Box Russia (1080p)",
+        "logo": "https://i.imgur.com/iWJdeD1.png",
+        "url": "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Russian Federation",
+                "code": "ru"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "MusicTop (720p)",
+        "logo": "https://cdn.mitvstatic.com/channels/ar_musictop_m.png",
+        "url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Argentina",
+                "code": "ar"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "NCI (1080p)",
+        "logo": "https://i.imgur.com/I3pv69r.png",
+        "url": "https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Cote d'Ivoire",
+                "code": "ci"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "NG (720p)",
+        "logo": "https://i.imgur.com/IcgbJKF.png",
+        "url": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Greece",
+                "code": "gr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Onda Radio TV (1080p)",
+        "logo": "https://i.imgur.com/dZMsj10.png",
+        "url": "https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Onda Valencia (720p)",
+        "logo": "https://i.imgur.com/6HxLUQd.png",
+        "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+        "categories": [
+            {
+                "name": "Music;News",
+                "slug": "music;news"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Spain",
+                "code": "es"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "ONE1 Music (1080p)",
+        "logo": "https://i.imgur.com/dLgoKJ0.png",
+        "url": "https://serve-first.folxplay.tv/folx/ch-3/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Panarmenian TV",
+        "logo": "https://i.imgur.com/ldLRe4j.png",
+        "url": "https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456",
+        "categories": [
+            {
+                "name": "Culture;Entertainment;Music",
+                "slug": "culture;entertainment;music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Panorama FM (1080p)",
+        "logo": "https://i.imgur.com/JkDD3bK.png",
+        "url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "sa"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Persiana Music (720p)",
+        "logo": "https://i.imgur.com/SHxxi5I.png",
+        "url": "http://51.210.199.24/hls/stream.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "France",
+                "code": "fr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Persiana Nostalgia (720p)",
+        "logo": "https://i.imgur.com/SWO9CKA.png",
+        "url": "http://51.210.199.20/hls/stream.m3u8",
+        "categories": [
+            {
+                "name": "Classic;Music",
+                "slug": "classic;music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "France",
+                "code": "fr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pink Koncert (576p)",
+        "logo": "https://i.imgur.com/epgj0aB.png",
+        "url": "http://109.105.201.198/PINKKONCERT/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Serbia",
+                "code": "rs"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "PlanetaTV Music (720p)",
+        "logo": "https://i.imgur.com/wPeT7UL.png",
+        "url": "https://scl.edge.grupoz.cl/music/live/music.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV CMT (720p)",
+        "logo": "https://i.imgur.com/hnmxBPZ.png",
+        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=182&terminate=false&userId=",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV Live in Concert (720p)",
+        "logo": "https://i.imgur.com/ePYL6N4.png",
+        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV Live Music Replay (720p)",
+        "logo": "https://i.imgur.com/zoa7AIO.png",
+        "url": "http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV MTV (720p)",
+        "logo": "https://i.imgur.com/WsQRCmZ.png",
+        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV MTV (Germany) (720p)",
+        "logo": "https://i.imgur.com/lTBim20.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV MTV Biggest Pop (720p)",
+        "logo": "https://i.imgur.com/AOaZmlS.png",
+        "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV MTV Classic (720p)",
+        "logo": "https://i.imgur.com/NPavpts.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV MTV Latino (720p)",
+        "logo": "https://i.imgur.com/mioQAZS.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV MTV Spankin' New (720p)",
+        "logo": "https://i.imgur.com/thbvJd1.png",
+        "url": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VEVO 70's (1080p)",
+        "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VEVO 90's (1080p)",
+        "logo": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VEVO Country (1080p)",
+        "logo": "https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VEVO R&B (1080p)",
+        "logo": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VEVO Reggeaton & Trap (1080p)",
+        "logo": "https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VH1 Classics (720p)",
+        "logo": "https://i.imgur.com/wgwEzFo.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VH1 Hip Hop Family (720p)",
+        "logo": "https://i.imgur.com/vZ3knKt.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Pluto TV VH1 I Love Reality (720p)",
+        "logo": "https://i.imgur.com/0vSFVw6.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "PMC (1080p)",
+        "logo": "https://i.imgur.com/AbrHI7K.png",
+        "url": "https://hls.pmchd.live/hls/stream.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United Arab Emirates",
+                "code": "ae"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "POP musik (576i)",
+        "logo": "https://i.imgur.com/Dfnl0nf.png",
+        "url": "https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Indonesia",
+                "code": "id"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Q-Music (1080p)",
+        "logo": "https://i.imgur.com/VX5e9Xt.png",
+        "url": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Belgium",
+                "code": "be"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Qmusic (720p)",
+        "logo": "https://i.imgur.com/fMTuqDu.png",
+        "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Netherlands",
+                "code": "nl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Radio 21 TV (720p)",
+        "logo": "https://i.imgur.com/u8OhwI1.png",
+        "url": "https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Radio Contact (1080p)",
+        "logo": "https://i.imgur.com/32mmGvB.png",
+        "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Belgium",
+                "code": "be"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Radio El Pueblo",
+        "logo": "https://i.imgur.com/Up1u4TH.png",
+        "url": "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Peru",
+                "code": "pe"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Radio Q (1080p)",
+        "logo": "https://i.imgur.com/0eWFPHJ.png",
+        "url": "https://panel.miplay.cl:8081/radioq/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Radio Weser TV Bremen",
+        "logo": "https://i.imgur.com/9pvCYaA.png",
+        "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Radioteca Webstereo (720p)",
+        "logo": "https://i.imgur.com/iMyhchN.png",
+        "url": "https://paneltv.net:3908/live/txtkignslive.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "RCK TV (720p)",
+        "logo": "https://i.imgur.com/0k6ZVMo.png",
+        "url": "https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Recuerdos Retro",
+        "logo": "https://i.imgur.com/t3F80JS.png",
+        "url": "https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Retro Music TV (360p)",
+        "logo": "https://i.imgur.com/pyOjdZs.png",
+        "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Czech Republic",
+                "code": "cz"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Retro Plus 2 HD",
+        "logo": "https://i.imgur.com/5G5kian.png",
+        "url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Retro Plus HD",
+        "logo": "https://i.imgur.com/fkCasXI.png",
+        "url": "https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Rotana Khalijia (1080p)",
+        "logo": "https://i.imgur.com/6HMluzv.png",
+        "url": "https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "sa"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Rotana Music (1080p)",
+        "logo": "https://i.imgur.com/2zFQbQi.png",
+        "url": "https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Saudi Arabia",
+                "code": "sa"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "RTV Vida (1080p)",
+        "logo": "https://i.imgur.com/EqUfEAh.png",
+        "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Spain",
+                "code": "es"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Ruidos FM (720p)",
+        "logo": "https://i.imgur.com/avIcT83.png",
+        "url": "https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Salto Brasa Music (1080p)",
+        "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
+        "url": "https://salto-streams.nl/hls/sotv1.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Netherlands",
+                "code": "nl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "SpektraTV (720p)",
+        "logo": "https://i.imgur.com/0zCt8e4.png",
+        "url": "https://cloudvideo.servers10.com:8081/8136/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Spain",
+                "code": "es"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Flashback 70s (1080p)",
+        "logo": "https://i.imgur.com/jf5C9QF.png",
+        "url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Greatest Hits (1080p)",
+        "logo": "https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Hit List (1080p)",
+        "logo": "https://i.imgur.com/lgpIwId.png",
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Holiday Hits (1080p)",
+        "logo": "https://i.imgur.com/4xVVKH8.png",
+        "url": "https://stirr.ott-channels.stingray.com/155/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Hot Country (1080p)",
+        "logo": "https://i.imgur.com/PZhxyIT.png",
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Karaoke (720p)",
+        "logo": "https://i.imgur.com/9TLTLS3.png",
+        "url": "https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Naturescape (360p)",
+        "logo": "https://i.imgur.com/882kd90.png",
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Pop Adult (1080p)",
+        "logo": "https://i.imgur.com/H2ugC9L.png",
+        "url": "https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Stingray Soul Storm (1080p)",
+        "logo": "https://i.imgur.com/dU1KC3f.png",
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "STIRR Classica (1080p)",
+        "logo": "https://i.imgur.com/bLjmQTU.png",
+        "url": "https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "STIRR Stingray Rock Alternative (1080p)",
+        "logo": "https://i.imgur.com/mt8ulVX.png",
+        "url": "https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "STIRR Stingray Today's Latin Pop (1080p)",
+        "logo": "https://i.imgur.com/Os3kRRP.png",
+        "url": "https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "STIRR Stingray Urban Beat (1080p)",
+        "logo": "https://i.imgur.com/Os3kRRP.png",
+        "url": "https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Canada",
+                "code": "ca"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "STZ Telebista (1080p)",
+        "logo": "https://i.imgur.com/rFQuAEv.png",
+        "url": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Spain",
+                "code": "es"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Tele Caribe (1080p)",
+        "logo": "https://i.imgur.com/zDL8mGu.png",
+        "url": "https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8",
+        "categories": [
+            {
+                "name": "Entertainment;Music",
+                "slug": "entertainment;music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Dominican Republic",
+                "code": "do"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "The Country Network (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
+        "url": "https://cdn.tcncountry.net/scte35_aws/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Three Angels Broadcasting Network Praise Him Music Network (3ABN) (720p)",
+        "logo": "https://i.imgur.com/iBcqT8L.png",
+        "url": "https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8",
+        "categories": [
+            {
+                "name": "Music;Religious",
+                "slug": "music;religious"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Top Latino TV",
+        "logo": "https://i.imgur.com/VRl8nPZ.png",
+        "url": "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Peru",
+                "code": "pe"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Trace Latina",
+        "logo": "https://i.imgur.com/CUVAi4u.png",
+        "url": "http://185.234.217.27:8002/play/a02f/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "France",
+                "code": "fr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Trace Urban (Australia) (1080p)",
+        "logo": "https://i.imgur.com/XJf2ajf.png",
+        "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "France",
+                "code": "fr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "TV A7 Plus (1080p)",
+        "logo": "https://i.imgur.com/qeo2oPM.png",
+        "url": "https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Entertainment;Music;News",
+                "slug": "entertainment;music;news"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Brazil",
+                "code": "br"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "TVS Music Network (720p)",
+        "logo": "https://i.imgur.com/pXOyNEy.png",
+        "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "V Classic TV",
+        "logo": "https://i.imgur.com/WIACJSy.png",
+        "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Vevo 80s (720p)",
+        "logo": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",
+        "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Vevo Hip Hop (1080p)",
+        "logo": "https://i.imgur.com/Lbc9cYw.png",
+        "url": "https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Vevo Pop Europe (1080p)",
+        "logo": "https://i.imgur.com/dZHktKR.png",
+        "url": "https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "VH1 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
+        "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United States",
+                "code": "us"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Video Rola (1080p)",
+        "logo": "https://i.imgur.com/9w54eVy.png",
+        "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Italy",
+                "code": "it"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Virtual TV (720p)",
+        "logo": "https://i.imgur.com/e1b0TTP.png",
+        "url": "https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Brazil",
+                "code": "br"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "VoiceOver Radio TV",
+        "logo": "https://i.imgur.com/HzGs1Eh.png",
+        "url": "https://cloudvideo.servers10.com:8081/8198/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Costa Rica",
+                "code": "cr"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Volksmusik TV (1080p)",
+        "logo": "https://i.imgur.com/EsWuCJ3.png",
+        "url": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Wanasah (1080p)",
+        "logo": "https://i.imgur.com/YaQcStz.png",
+        "url": "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "United Arab Emirates",
+                "code": "ae"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Zapping Music (720p)",
+        "logo": "https://i.imgur.com/2pXVygP.png",
+        "url": "https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Chile",
+                "code": "cl"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "Zerouno TV (720p)",
+        "logo": "https://i.imgur.com/RMPVvGR.png",
+        "url": "http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Italy",
+                "code": "it"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
+    },
+    {
+        "name": "ZWEI2 Music (1080p)",
+        "logo": "https://i.imgur.com/RbdpCNf.png",
+        "url": "https://serve-first.folxplay.tv/folx/ch-2/master.m3u8",
+        "categories": [
+            {
+                "name": "Music",
+                "slug": "music"
+            }
+        ],
+        "countries": [
+            {
+                "name": "Germany",
+                "code": "de"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "code": "en"
+            }
+        ]
     }
 ]
