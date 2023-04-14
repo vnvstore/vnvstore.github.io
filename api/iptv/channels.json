@@ -1707,8 +1707,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -2006,8 +2014,12 @@
         "url": "https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8",
         "categories": [
             {
-                "name": "Education;General",
-                "slug": "education;general"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "General",
+                "slug": "general"
             }
         ],
         "countries": [
@@ -2144,8 +2156,12 @@
         "url": "https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8",
         "categories": [
             {
-                "name": "Animation;Kids",
-                "slug": "animation;kids"
+                "name": "Animation",
+                "slug": "animation"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -2397,8 +2413,12 @@
         "url": "https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8",
         "categories": [
             {
-                "name": "Culture;Travel",
-                "slug": "culture;travel"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Travel",
+                "slug": "travel"
             }
         ],
         "countries": [
@@ -2650,8 +2670,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -2673,8 +2701,12 @@
         "url": "https://stmv1.srvif.com/nattv/nattv/playlist.m3u8",
         "categories": [
             {
-                "name": "Documentary;Science",
-                "slug": "documentary;science"
+                "name": "Documentary",
+                "slug": "documentary"
+            },
+            {
+                "name": "Science",
+                "slug": "science"
             }
         ],
         "countries": [
@@ -2719,8 +2751,12 @@
         "url": "https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8",
         "categories": [
             {
-                "name": "Entertainment;General",
-                "slug": "entertainment;general"
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "General",
+                "slug": "general"
             }
         ],
         "countries": [
@@ -2742,8 +2778,12 @@
         "url": "https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8",
         "categories": [
             {
-                "name": "Documentary;Science",
-                "slug": "documentary;science"
+                "name": "Documentary",
+                "slug": "documentary"
+            },
+            {
+                "name": "Science",
+                "slug": "science"
             }
         ],
         "countries": [
@@ -3409,8 +3449,12 @@
         "url": "https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8",
         "categories": [
             {
-                "name": "Culture;News",
-                "slug": "culture;news"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -3478,8 +3522,16 @@
         "url": "https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8",
         "categories": [
             {
-                "name": "Family;Movies;Series",
-                "slug": "family;movies;series"
+                "name": "Family",
+                "slug": "family"
+            },
+            {
+                "name": "Movies",
+                "slug": "movies"
+            },
+            {
+                "name": "Series",
+                "slug": "series"
             }
         ],
         "countries": [
@@ -3524,8 +3576,16 @@
         "url": "https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8",
         "categories": [
             {
-                "name": "Entertainment;Music;News",
-                "slug": "entertainment;music;news"
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -4214,8 +4274,12 @@
         "url": "https://virtues.es:1936/tvmar/tvmar/playlist.m3u8",
         "categories": [
             {
-                "name": "General;News",
-                "slug": "general;news"
+                "name": "General",
+                "slug": "general"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -4697,8 +4761,12 @@
         "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
         "categories": [
             {
-                "name": "Entertainment;News",
-                "slug": "entertainment;news"
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -4720,8 +4788,12 @@
         "url": "https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8",
         "categories": [
             {
-                "name": "Culture;Education",
-                "slug": "culture;education"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Education",
+                "slug": "education"
             }
         ],
         "countries": [
@@ -4766,8 +4838,12 @@
         "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
         "categories": [
             {
-                "name": "Culture;Education",
-                "slug": "culture;education"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Education",
+                "slug": "education"
             }
         ],
         "countries": [
@@ -4881,8 +4957,12 @@
         "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
         "categories": [
             {
-                "name": "Culture;Education",
-                "slug": "culture;education"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Education",
+                "slug": "education"
             }
         ],
         "countries": [
@@ -5709,8 +5789,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -6675,8 +6763,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -6721,8 +6817,20 @@
         "url": "https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8",
         "categories": [
             {
-                "name": "Animation;Entertainment;Movies;Series",
-                "slug": "animation;entertainment;movies;series"
+                "name": "Animation",
+                "slug": "animation"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Movies",
+                "slug": "movies"
+            },
+            {
+                "name": "Series",
+                "slug": "series"
             }
         ],
         "countries": [
@@ -7825,8 +7933,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -8929,8 +9045,12 @@
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8",
         "categories": [
             {
-                "name": "Movies;Series",
-                "slug": "movies;series"
+                "name": "Movies",
+                "slug": "movies"
+            },
+            {
+                "name": "Series",
+                "slug": "series"
             }
         ],
         "countries": [
@@ -9021,8 +9141,12 @@
         "url": "https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8",
         "categories": [
             {
-                "name": "Family;Movies",
-                "slug": "family;movies"
+                "name": "Family",
+                "slug": "family"
+            },
+            {
+                "name": "Movies",
+                "slug": "movies"
             }
         ],
         "countries": [
@@ -9803,8 +9927,12 @@
         "url": "https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8",
         "categories": [
             {
-                "name": "Family;Movies",
-                "slug": "family;movies"
+                "name": "Family",
+                "slug": "family"
+            },
+            {
+                "name": "Movies",
+                "slug": "movies"
             }
         ],
         "countries": [
@@ -13368,8 +13496,12 @@
         "url": "http://51.210.199.27/hls/stream.m3u8",
         "categories": [
             {
-                "name": "Comedy;Movies",
-                "slug": "comedy;movies"
+                "name": "Comedy",
+                "slug": "comedy"
+            },
+            {
+                "name": "Movies",
+                "slug": "movies"
             }
         ],
         "countries": [
@@ -13483,8 +13615,12 @@
         "url": "http://51.210.199.20/hls/stream.m3u8",
         "categories": [
             {
-                "name": "Classic;Music",
-                "slug": "classic;music"
+                "name": "Classic",
+                "slug": "classic"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -14863,8 +14999,12 @@
         "url": "https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8",
         "categories": [
             {
-                "name": "Family;Movies",
-                "slug": "family;movies"
+                "name": "Family",
+                "slug": "family"
+            },
+            {
+                "name": "Movies",
+                "slug": "movies"
             }
         ],
         "countries": [
@@ -16634,8 +16774,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -16841,8 +16989,12 @@
         "url": "https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8",
         "categories": [
             {
-                "name": "Culture;Education",
-                "slug": "culture;education"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Education",
+                "slug": "education"
             }
         ],
         "countries": [
@@ -17600,8 +17752,12 @@
         "url": "https://tv.beatfm.nl/live.m3u8",
         "categories": [
             {
-                "name": "Entertainment;Music",
-                "slug": "entertainment;music"
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -19808,8 +19964,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -20406,8 +20570,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -22890,8 +23062,12 @@
         "url": "https://ythls.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8",
         "categories": [
             {
-                "name": "Business;News",
-                "slug": "business;news"
+                "name": "Business",
+                "slug": "business"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -22913,8 +23089,12 @@
         "url": "https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8",
         "categories": [
             {
-                "name": "Business;News",
-                "slug": "business;news"
+                "name": "Business",
+                "slug": "business"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -24454,8 +24634,12 @@
         "url": "https://directo.tuwebtv.es/canal1.m3u8",
         "categories": [
             {
-                "name": "General;News",
-                "slug": "general;news"
+                "name": "General",
+                "slug": "general"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -24707,8 +24891,12 @@
         "url": "https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8",
         "categories": [
             {
-                "name": "Culture;Music",
-                "slug": "culture;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -24914,8 +25102,12 @@
         "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
         "categories": [
             {
-                "name": "Music;News",
-                "slug": "music;news"
+                "name": "Music",
+                "slug": "music"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -28226,8 +28418,12 @@
         "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
         "categories": [
             {
-                "name": "Animation;Kids",
-                "slug": "animation;kids"
+                "name": "Animation",
+                "slug": "animation"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -32458,8 +32654,20 @@
         "url": "https://vse2-na-us-ne24.secdn.net/logos-channel/live/christmas/playlist.m3u8",
         "categories": [
             {
-                "name": "Animation;Entertainment;Music;Religious",
-                "slug": "animation;entertainment;music;religious"
+                "name": "Animation",
+                "slug": "animation"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
+            },
+            {
+                "name": "Religious",
+                "slug": "religious"
             }
         ],
         "countries": [
@@ -33654,8 +33862,12 @@
         "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
         "categories": [
             {
-                "name": "Entertainment;News",
-                "slug": "entertainment;news"
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
@@ -35494,8 +35706,16 @@
         "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -36161,8 +36381,12 @@
         "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8",
         "categories": [
             {
-                "name": "Education;Kids",
-                "slug": "education;kids"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -36966,8 +37190,16 @@
         "url": "https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456",
         "categories": [
             {
-                "name": "Culture;Entertainment;Music",
-                "slug": "culture;entertainment;music"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "Entertainment",
+                "slug": "entertainment"
+            },
+            {
+                "name": "Music",
+                "slug": "music"
             }
         ],
         "countries": [
@@ -37357,8 +37589,12 @@
         "url": "https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8",
         "categories": [
             {
-                "name": "Education;Kids",
-                "slug": "education;kids"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -37380,8 +37616,12 @@
         "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
         "categories": [
             {
-                "name": "Education;Kids",
-                "slug": "education;kids"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -37403,8 +37643,12 @@
         "url": "https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8",
         "categories": [
             {
-                "name": "Education;Kids",
-                "slug": "education;kids"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -37426,8 +37670,12 @@
         "url": "https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8",
         "categories": [
             {
-                "name": "Education;Kids",
-                "slug": "education;kids"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -37449,8 +37697,12 @@
         "url": "https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8",
         "categories": [
             {
-                "name": "Education;Kids",
-                "slug": "education;kids"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
             }
         ],
         "countries": [
@@ -44395,8 +44647,12 @@
         "url": "https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8",
         "categories": [
             {
-                "name": "Education;Lifestyle",
-                "slug": "education;lifestyle"
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Lifestyle",
+                "slug": "lifestyle"
             }
         ],
         "countries": [
@@ -44579,8 +44835,16 @@
         "url": "https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8",
         "categories": [
             {
-                "name": "Animation;Kids;Religious",
-                "slug": "animation;kids;religious"
+                "name": "Animation",
+                "slug": "animation"
+            },
+            {
+                "name": "Kids",
+                "slug": "kids"
+            },
+            {
+                "name": "Religious",
+                "slug": "religious"
             }
         ],
         "countries": [
@@ -44602,8 +44866,12 @@
         "url": "https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8",
         "categories": [
             {
-                "name": "Music;Religious",
-                "slug": "music;religious"
+                "name": "Music",
+                "slug": "music"
+            },
+            {
+                "name": "Religious",
+                "slug": "religious"
             }
         ],
         "countries": [
@@ -47431,8 +47699,12 @@
         "url": "https://ythls.onrender.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8",
         "categories": [
             {
-                "name": "Culture;News",
-                "slug": "culture;news"
+                "name": "Culture",
+                "slug": "culture"
+            },
+            {
+                "name": "News",
+                "slug": "news"
             }
         ],
         "countries": [
