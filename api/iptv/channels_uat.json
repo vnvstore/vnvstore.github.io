@@ -1,50 +1,5 @@
 [
-    {
-        "name": "RTG",
-        "logo": "https://gl.weburg.net/00/tv/channels/1/447/bigposter/618337.png",
-        "url": "http://ott-cdn.ucom.am/s63/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "RTG TV",
-        "logo": "https://gl.weburg.net/00/tv/channels/1/120/bigposter/591604.png",
-        "url": "http://ott-cdn.ucom.am/s80/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+    
     {
         "name": "Bridge TV ",
         "logo": "https://www.logosurfer.com/wp-content/uploads/2018/03/bridge-tv-logo_0.png",
@@ -275,29 +230,7 @@
             }
         ]
     },
-    {
-        "name": "Arm News TV",
-        "logo": "http://www.armnewstv.am/wp-content/uploads/2015/06/logo.png",
-        "url": "http://ott-cdn.ucom.am/s11/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+   
     {
         "name": "ARTN TV",
         "logo": "http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png",
@@ -436,52 +369,8 @@
             }
         ]
     },
-    {
-        "name": "Kentron",
-        "logo": "https://www.kentron.tv/images/logo.png",
-        "url": "http://ott-cdn.ucom.am/s5/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "ATV Canli",
-        "logo": "http://atv.az/assets/images/logo_white.png",
-        "url": "http://85.132.81.184:8080/atv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+    
+   
     {
         "name": "ATV -2 Saat",
         "logo": "http://atv.az/assets/images/logo_white.png",
@@ -597,29 +486,7 @@
             }
         ]
     },
-    {
-        "name": "Astana",
-        "logo": "https://astanatv.kz/assets/images/logo/logo.png",
-        "url": "http://sc.id-tv.kz/astana_36_37.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+    
     {
         "name": "Atameken Business Channel",
         "logo": "http://catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png",
@@ -643,121 +510,7 @@
             }
         ]
     },
-    {
-        "name": "Ertis",
-        "logo": "http://pavlodartv.kz/assets/regions/logo/ertis.png",
-        "url": "http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Jambyl ",
-        "logo": "http://taraztv.kz/assets/regions/logo/jambyl.png",
-        "url": "http://onrez.kaztrk.kz/regional/taraztv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Oral",
-        "logo": "http://oraltv.kz/assets/regions/logo/aqjaiyq.png?v=1",
-        "url": "http://onrez.kaztrk.kz/regional/oraltv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Kazakh TV (English)",
-        "logo": "https://kazakh-tv.kz/img/logo_default.png",
-        "url": "http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Ontustik",
-        "logo": "http://shymkenttv.kz/assets/regions/logo/ontustik.png",
-        "url": "http://onrez.kaztrk.kz/regional/shymkenttv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+  
     {
         "name": "Rika",
         "logo": "http://www.rikatv.kz/bitrix/templates/infogis/images/logo_rika_main1.png",
@@ -781,98 +534,7 @@
             }
         ]
     },
-    {
-        "name": "Saryarqa",
-        "logo": "http://kartv.kz/assets/regions/logo/saryarqa.png",
-        "url": "http://onrez.kaztrk.kz/regional/karagandytv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Chau TV",
-        "logo": "https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
-        "url": "http://video.chaula.tv/hls/live/high/playlist_high.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "RE:TV",
-        "logo": "http://www.retv.lv/wp-content/uploads/2017/03/logo-a-e1489505827441.png",
-        "url": "http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "1 Baltic Music",
-        "logo": "http://en.1bma.lv/uploaded/spaw/images/1m.jpg",
-        "url": "https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+ 
     {
         "name": "Latvijas Radio 3 Klasika",
         "logo": "http://www.userlogos.org/files/logos/spaljeni/tvnet.png",
@@ -896,236 +558,10 @@
             }
         ]
     },
-    {
-        "name": "Moldova 1",
-        "logo": "https://www.trm.md/img/pages/2018/10/18/moldova-1/moldova-1.png",
-        "url": "http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Moldova 2",
-        "logo": "https://www.trm.md/img/pages/2018/10/18/moldova-2/moldova-2.png",
-        "url": "http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Accent TV",
-        "logo": "http://a-tv.md/templates/test/img/logo-site.png",
-        "url": "http://video.a-tv.md/hls/accent.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Agro TV",
-        "logo": "https://www.agrotvmoldova.md/sites/default/files/photo169872824665745422.jpg",
-        "url": "http://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Regional",
-        "logo": "https://canalregional.md/wp-content/uploads/2018/04/Logo.png",
-        "url": "http://canalregional.md/tv/live/canalregional.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Domashniy Familia",
-        "logo": "https://ik.imagekit.io/ulangotv/image/upload/79690_logo_domashniy_familia.png",
-        "url": "http://109.185.159.215:4011/udp/239.100.0.13:5656",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Elita",
-        "logo": "https://elitatv.files.wordpress.com/2017/11/cropped-cropped-logo_elitatv_max_512.jpg",
-        "url": "http://46.55.111.242:8080/Rezina.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Gold TV",
-        "logo": "http://goldtv.md/GoldTVLogo1.gif",
-        "url": "http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Jurnal TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/1200px-Logo_Jurnal_TV_%282012%29.svg.png",
-        "url": "http://109.185.159.215:4011/udp/239.100.0.4:5656",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "NTV",
-        "logo": "http://tvtolive.com/wp-content/uploads/NTV-Moldova-tvtolive.com_.jpg",
-        "url": "http://93.115.137.166/hls/ntvm.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+   
+
+ 
+  
     {
         "name": "Publika TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Publika_logo_%282017%29.png/220px-Publika_logo_%282017%29.png",
@@ -1149,52 +585,8 @@
             }
         ]
     },
-    {
-        "name": "RU TV Moldova",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rutv_moldova.png",
-        "url": "http://217.12.116.122/hls/rutv_direct.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Tele M",
-        "logo": "http://telem.ro/wp-content/uploads/2018/07/cropped-telem-sigla-site.png",
-        "url": "http://webmobile.xdev.ro:81/tv16/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+   
+   
     {
         "name": "Altyn Asyr TV",
         "logo": "http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg",
@@ -1356,29 +748,7 @@
             }
         ]
     },
-    {
-        "name": "Umn",
-        "logo": "http://umn.ua/wp-content/uploads/2017/05/xumn-logo.png.pagespeed.ic.p5sibIvsvN.png",
-        "url": "http://play.lanet.tv/live/1008.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Russian Federation",
-                "code": "ru"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
+   
     {
         "name": "Z TV",
         "logo": "https://ztv.zp.ua/wp-content/themes/tv-z/img/logo.png",
