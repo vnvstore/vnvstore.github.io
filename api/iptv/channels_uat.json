@@ -23,52 +23,6 @@
         ]
     },
     {
-        "name": "American Horrors (480p)",
-        "logo": "https://i.imgur.com/JLkzt7v.jpg",
-        "url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "BIZ Cinema (1080p)",
-        "logo": "https://biztv.uz/static/media/biz-cinema.286b83dc.png",
-        "url": "https://st.biztv.uz/hls/c_hi/index.m3u8",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Uzbekistan",
-                "code": "uz"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Bizzarro Movies",
         "logo": "https://i.imgur.com/kNGpFHX.png",
         "url": "https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8",
@@ -805,29 +759,6 @@
         ]
     },
     {
-        "name": "MovieFe (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/FqHLJmN.png",
-        "url": "https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Colombia",
-                "code": "co"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "MovieSphere (1080p)",
         "logo": "https://i.imgur.com/h1ejU90.png",
         "url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
@@ -1052,29 +983,6 @@
             {
                 "name": "France",
                 "code": "fr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "PlanetaTV Movie (720p)",
-        "logo": "https://i.imgur.com/ZjIgPmV.png",
-        "url": "https://scl.edge.grupoz.cl/movie/live/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Movies",
-                "slug": "movies"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
             }
         ],
         "languages": [
@@ -3421,29 +3329,6 @@
         ]
     },
     {
-        "name": "BIZ Music (1080p)",
-        "logo": "https://imgtr.ee/images/2023/05/24/wQ6wz.png",
-        "url": "https://st.biztv.uz/hls/m_hi/index.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Uzbekistan",
-                "code": "uz"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Boogle Bollywood (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/gaKzWdo.png",
         "url": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8",
@@ -3503,29 +3388,6 @@
             {
                 "name": "Spain",
                 "code": "es"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Cantina TV (1080p)",
-        "logo": "https://i.imgur.com/JWMk2fP.png",
-        "url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Venezuela, RB",
-                "code": "ve"
             }
         ],
         "languages": [
@@ -3697,29 +3559,6 @@
         ]
     },
     {
-        "name": "El Sol Network TV (720p)",
-        "logo": "https://i.imgur.com/TIH3zlP.png",
-        "url": "https://rctvhd.net:8081/elsol105fm/index.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Ecuador",
-                "code": "ec"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "EMI TV (1080p)",
         "logo": "https://i.imgur.com/PLlEaNG.png",
         "url": "http://188.173.24.23:9093",
@@ -3779,29 +3618,6 @@
             {
                 "name": "West Bank and Gaza",
                 "code": "ps"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/bXWzstH.png",
-        "url": "http://159.203.148.226/live/farra.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Paraguay",
-                "code": "py"
             }
         ],
         "languages": [
@@ -3973,52 +3789,6 @@
         ]
     },
     {
-        "name": "Impact TV Dance (1080p)",
-        "logo": "https://i.imgur.com/G5mNdpE.png",
-        "url": "http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Romania",
-                "code": "ro"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Impact TV Manele (1080p)",
-        "logo": "https://i.imgur.com/G5mNdpE.png",
-        "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Romania",
-                "code": "ro"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "INTV Australia (720p)",
         "logo": "https://i.imgur.com/1nJl0Pv.png",
         "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
@@ -4055,29 +3825,6 @@
             {
                 "name": "Costa Rica",
                 "code": "cr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Italianissimo (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/JCpbUZB.png",
-        "url": "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Venezuela, RB",
-                "code": "ve"
             }
         ],
         "languages": [
@@ -4262,29 +4009,6 @@
             {
                 "name": "Croatia",
                 "code": "hr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "KpopTV Play (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Tf0vweF.png",
-        "url": "https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Brazil",
-                "code": "br"
             }
         ],
         "languages": [
@@ -4694,29 +4418,6 @@
         ]
     },
     {
-        "name": "Metropolitana FM (720p)",
-        "logo": "https://i.imgur.com/hWIGeHw.png",
-        "url": "https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Argentina",
-                "code": "ar"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Miel TV (Satipo) [Not 24/7]",
         "logo": "https://i.imgur.com/dPSFrCs.png",
         "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
@@ -4951,33 +4652,6 @@
         ]
     },
     {
-        "name": "Onda 15 TV (224p)",
-        "logo": "https://i.imgur.com/mUrZz9O.png",
-        "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            },
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Spain",
-                "code": "es"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Onda Radio TV (1080p)",
         "logo": "https://i.imgur.com/dZMsj10.png",
         "url": "https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8",
@@ -5018,29 +4692,6 @@
             {
                 "name": "Spain",
                 "code": "es"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Oxigeno TV (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/n3PweBQ.png",
-        "url": "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Venezuela, RB",
-                "code": "ve"
             }
         ],
         "languages": [
@@ -5218,29 +4869,6 @@
             {
                 "name": "Greece",
                 "code": "gr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Play TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/1dmBqpf.png",
-        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Cameroon",
-                "code": "cm"
             }
         ],
         "languages": [
@@ -5987,29 +5615,6 @@
         ]
     },
     {
-        "name": "Real TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/OL5qm2c.png",
-        "url": "http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Retro Music TV (360p)",
         "logo": "https://i.imgur.com/pyOjdZs.png",
         "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
@@ -6023,52 +5628,6 @@
             {
                 "name": "Czech Republic",
                 "code": "cz"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Retro Plus 2 HD (720p)",
-        "logo": "https://i.imgur.com/5G5kian.png",
-        "url": "https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Retro Plus HD (720p)",
-        "logo": "https://i.imgur.com/fkCasXI.png",
-        "url": "https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
             }
         ],
         "languages": [
@@ -6353,29 +5912,6 @@
             {
                 "name": "Spain",
                 "code": "es"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Star Folk (1080p)",
-        "logo": "https://i.imgur.com/fM7FUgk.png",
-        "url": "https://live.muzickatv.mk/live/StarMusic.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Macedonia, FYR",
-                "code": "mk"
             }
         ],
         "languages": [
@@ -6757,29 +6293,6 @@
         "name": "The Country Network (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
         "url": "https://cdn.tcncountry.net/scte35_aws/index.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "The Retro Channel (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/t3i1HtE.jpg",
-        "url": "https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8",
         "categories": [
             {
                 "name": "Music",
@@ -7456,29 +6969,6 @@
         ]
     },
     {
-        "name": "ACS Network (480p)",
-        "logo": "https://i.imgur.com/7aIab2r.png",
-        "url": "https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Puerto Rico",
-                "code": "pr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "AFN TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/LctanF8.png",
         "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
@@ -7979,29 +7469,6 @@
             {
                 "name": "United States",
                 "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Crossing TV (Crossing Contenidos) (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/iNJu7Fu.png",
-        "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Argentina",
-                "code": "ar"
             }
         ],
         "languages": [
@@ -8557,29 +8024,6 @@
         ]
     },
     {
-        "name": "Kerala Vision (720p)",
-        "logo": "https://i.imgur.com/SWNjyyp.png",
-        "url": "https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "La Metro TV (720p)",
         "logo": "https://i.imgur.com/BqS8BHi.png",
         "url": "https://emisoras.hn:8081/metrotv/index.m3u8",
@@ -8593,29 +8037,6 @@
             {
                 "name": "Honduras",
                 "code": "hn"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "LatacungaTV (720p)",
-        "logo": "https://i.imgur.com/YjgYYH3.png",
-        "url": "https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Ecuador",
-                "code": "ec"
             }
         ],
         "languages": [
@@ -9826,29 +9247,6 @@
         ]
     },
     {
-        "name": "The Love Destination (1080p)",
-        "logo": "https://i.imgur.com/gZP0Z08.png",
-        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Tin TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/hMqGs94.png",
         "url": "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
@@ -11011,29 +10409,6 @@
         ]
     },
     {
-        "name": "SoloStandUp (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/U872KLT.png",
-        "url": "https://paneltv.online:1936/8116/8116/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Comedy",
-                "slug": "comedy"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "TVS Comedy Network (720p)",
         "logo": "https://i.imgur.com/rXORbti.png",
         "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
@@ -12175,29 +11550,6 @@
             {
                 "name": "Romania",
                 "code": "ro"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Maeil Business TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/G2fnMXG.png",
-        "url": "https://ythls.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8",
-        "categories": [
-            {
-                "name": "Business",
-                "slug": "business"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Korea, Rep.",
-                "code": "kr"
             }
         ],
         "languages": [
@@ -14154,29 +13506,6 @@
         ]
     },
     {
-        "name": "AgroTV (404p) [Not 24/7]",
-        "logo": "https://i.imgur.com/S7X1PiC.png",
-        "url": "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Romania",
-                "code": "ro"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "AION TV (1080p)",
         "logo": "https://i.imgur.com/DBvm7YS.png",
         "url": "https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8",
@@ -14512,29 +13841,6 @@
             {
                 "name": "Brazil",
                 "code": "br"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "ALPO (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Pr4ixiA.png",
-        "url": "https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Albania",
-                "code": "al"
             }
         ],
         "languages": [
@@ -14980,29 +14286,6 @@
             {
                 "name": "Canada",
                 "code": "ca"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Az TV (1080p)",
-        "logo": "https://i.imgur.com/snBMMeH.png",
-        "url": "https://str.yodacdn.net/aztv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Azerbaijan",
-                "code": "az"
             }
         ],
         "languages": [
@@ -16489,29 +15772,6 @@
         ]
     },
     {
-        "name": "Elsharq TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/8vmfZb5.png",
-        "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Egypt, Arab Rep.",
-                "code": "eg"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "EN TV",
         "logo": "https://i.imgur.com/KnKTjev.png",
         "url": "http://82.212.74.100:8000/live/8130.m3u8",
@@ -16696,29 +15956,6 @@
         ]
     },
     {
-        "name": "GHtv Holland (720p)",
-        "logo": "https://i.imgur.com/hOGS5LL.png",
-        "url": "http://37.48.120.77:8080/hls/ghtvonline.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Netherlands",
-                "code": "nl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Gosree Vision (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/pdBo8Xb.png",
         "url": "https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8",
@@ -16893,29 +16130,6 @@
             {
                 "name": "Mexico",
                 "code": "mx"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Indigenous Television (720p)",
-        "logo": "https://imgtr.ee/images/2023/05/24/wQ58i.png",
-        "url": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Nepal",
-                "code": "np"
             }
         ],
         "languages": [
@@ -17238,29 +16452,6 @@
             {
                 "name": "Netherlands",
                 "code": "nl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Korea Economy TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/fGQatSH.png",
-        "url": "https://ythls.onrender.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Korea, Rep.",
-                "code": "kr"
             }
         ],
         "languages": [
@@ -19019,29 +18210,6 @@
         ]
     },
     {
-        "name": "OTV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/toxFMeY.png",
-        "url": "http://62.182.82.104/OTV/index.m3u8?token=test",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Lebanon",
-                "code": "lb"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Palestine Mubasher (404p)",
         "logo": "https://i.imgur.com/68llVTZ.png",
         "url": "http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8",
@@ -19482,29 +18650,6 @@
         "name": "Rede TV! Pampa (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/Cnc1Mqo.png",
         "url": "https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Brazil",
-                "code": "br"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Rede UTV",
-        "logo": "https://i.imgur.com/Usw2e9d.png",
-        "url": "https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8",
         "categories": [
             {
                 "name": "General",
@@ -20633,29 +19778,6 @@
         ]
     },
     {
-        "name": "Sur TV (720p)",
-        "logo": "https://i.imgur.com/wDCqoor.png",
-        "url": "https://paneltv.online:1936/8034/8034/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Syria Satellite Channel (360p) [Not 24/7]",
         "logo": "https://i.imgur.com/ajsrKzA.png",
         "url": "http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8",
@@ -21024,29 +20146,6 @@
         ]
     },
     {
-        "name": "TelePaks (396p)",
-        "logo": "https://i.imgur.com/T8ueztB.png",
-        "url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Hungary",
-                "code": "hu"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "TeleRama (576p)",
         "logo": "https://i.imgur.com/0YTYXB9.png",
         "url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8",
@@ -21185,29 +20284,6 @@
         ]
     },
     {
-        "name": "Televisora Regional Unimar (410p) [Not 24/7]",
-        "logo": "https://imgtr.ee/images/2023/05/24/wYxEn.jpg",
-        "url": "https://vivo.solumedia.com:19360/trutv/trutv.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Argentina",
-                "code": "ar"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Thai Nguyen TV (1080p)",
         "logo": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png",
         "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
@@ -21290,29 +20366,6 @@
             {
                 "name": "Italy",
                 "code": "it"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "TMN TV (720p)",
-        "logo": "https://i.imgur.com/mTlu5IK.png",
-        "url": "https://v1.tustreaming.cl/tmntv/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
             }
         ],
         "languages": [
@@ -21566,29 +20619,6 @@
             {
                 "name": "Dominican Republic",
                 "code": "do"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "TV Almassora (720p)",
-        "logo": "https://i.imgur.com/syeJXGh.png",
-        "url": "https://live.fullsport.es/hls/tvalmassora.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Spain",
-                "code": "es"
             }
         ],
         "languages": [
@@ -23429,29 +22459,6 @@
             {
                 "name": "Germany",
                 "code": "de"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Yonhap News TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/3aLkU2I.png",
-        "url": "https://ythls.onrender.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Korea, Rep.",
-                "code": "kr"
             }
         ],
         "languages": [
@@ -27566,29 +26573,6 @@
         ]
     },
     {
-        "name": "TV Sim Colatina (720p)",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Brazil",
-                "code": "br"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "TV Universal (480p)",
         "logo": "https://i.imgur.com/TIsk5zN.png",
         "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
@@ -28006,29 +26990,6 @@
         "name": "SVBC 3 (720p)",
         "logo": "https://i.imgur.com/Ae2PMTu.png",
         "url": "https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Religious",
-                "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "SVBC 4 (1080p)",
-        "logo": "https://i.imgur.com/vCFdZny.png",
-        "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
         "categories": [
             {
                 "name": "Religious",
@@ -28581,29 +27542,6 @@
         "name": "TNE (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/8QbvXva.png",
         "url": "https://v2.tustreaming.cl/tnetv/index.m3u8",
-        "categories": [
-            {
-                "name": "Religious",
-                "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Vida TV (1080p)",
-        "logo": "https://i.imgur.com/wELUN0N.png",
-        "url": "http://181.224.64.2:89/vidatv/index.m3u8",
         "categories": [
             {
                 "name": "Religious",
@@ -29764,29 +28702,6 @@
             {
                 "name": "Greece",
                 "code": "gr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Bonum TV (360p)",
-        "logo": "https://i.imgur.com/LdsRz2E.png",
-        "url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8",
-        "categories": [
-            {
-                "name": "Religious",
-                "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Hungary",
-                "code": "hu"
             }
         ],
         "languages": [
@@ -32389,29 +31304,6 @@
         ]
     },
     {
-        "name": "TSN Tele Sondrio News (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/eE37h7Q.png",
-        "url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Italy",
-                "code": "it"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Wedding TV",
         "logo": "https://i.imgur.com/dFCrfbk.png",
         "url": "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8",
@@ -32895,29 +31787,6 @@
         ]
     },
     {
-        "name": "Medi 1 TV Maghreb (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/MosTwQW.png",
-        "url": "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Morocco",
-                "code": "ma"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Salto 2 (720p)",
         "logo": "https://i.imgur.com/6H3ycdL.png",
         "url": "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8",
@@ -33125,29 +31994,6 @@
         ]
     },
     {
-        "name": "ARY News (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/R4KtTbJ.jpg",
-        "url": "https://ythls.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Pakistan",
-                "code": "pk"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Dunya News (INT Feed) (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/1PbtW0y.png",
         "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
@@ -33286,52 +32132,6 @@
         ]
     },
     {
-        "name": "Roze News (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/TedWqfL.png",
-        "url": "https://ythls.onrender.com/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Pakistan",
-                "code": "pk"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Such TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/yYMh3JJ.png",
-        "url": "https://ythls.onrender.com/channel/UCyNUtOyKbLZaOgy3rhe_3lQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Pakistan",
-                "code": "pk"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Al Aqsa Channel (416p) [Not 24/7]",
         "logo": "https://i.imgur.com/Z2rfrQ8.png",
         "url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
@@ -33362,29 +32162,6 @@
             {
                 "name": "Religious",
                 "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Panama",
-                "code": "pa"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "TVMax (720p)",
-        "logo": "https://i.imgur.com/XcrkfGh.png",
-        "url": "https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8",
-        "categories": [
-            {
-                "name": "Sports",
-                "slug": "sports"
             }
         ],
         "countries": [
@@ -33592,29 +32369,6 @@
             {
                 "name": "Religious",
                 "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Peru",
-                "code": "pe"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "USMPTV (720p)",
-        "logo": "https://i.imgur.com/9cmIv3q.png",
-        "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
-        "categories": [
-            {
-                "name": "Culture",
-                "slug": "culture"
             }
         ],
         "countries": [
@@ -35287,29 +34041,6 @@
         ]
     },
     {
-        "name": "TCH (1080p) [Not 24/7]",
-        "logo": "https://pbs.twimg.com/profile_images/1483023167073443840/wSWkcyNC_400x400.png",
-        "url": "https://ythls.onrender.com/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Ukraine",
-                "code": "ua"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Abu Dhabi Sports 2 (1080p)",
         "logo": "https://i.imgur.com/4rVm3oZ.png",
         "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
@@ -35501,29 +34232,6 @@
             {
                 "name": "Religious",
                 "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United Arab Emirates",
-                "code": "ae"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Sharjah Sports TV (1080p)",
-        "logo": "https://i.imgur.com/IaRaabJ.jpg",
-        "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Sports",
-                "slug": "sports"
             }
         ],
         "countries": [
@@ -38438,29 +37146,6 @@
         ]
     },
     {
-        "name": "Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/lTdwfd8.png",
-        "url": "http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Religious",
-                "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "KALO TV (432p)",
         "logo": "https://i.imgur.com/hd7VYyn.png",
         "url": "https://10380e91fda5e303.mediapackage.us-west-2.amazonaws.com/out/v1/e8a622ce6ed34d07b468dd6ea2f94ee8/index.m3u8",
@@ -40301,29 +38986,6 @@
         ]
     },
     {
-        "name": "Pluto TV Fitness (720p)",
-        "logo": "https://i.imgur.com/3Hs6kO8.png",
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0c92783b3f0007a4c7df&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=3b0b1ee4-3c26-4c24-8a7c-1b12f2e4e536&terminate=false&userId=",
-        "categories": [
-            {
-                "name": "Lifestyle",
-                "slug": "lifestyle"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Pluto TV Food TV (240p)",
         "logo": "https://i.imgur.com/WGUPTnL.png",
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=",
@@ -41132,29 +39794,6 @@
         "name": "Pluto TV MTV The Hills (720p)",
         "logo": "https://i.imgur.com/92mvCjS.png",
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d00e86bf0bac55fe7f75736&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a934c097-0587-11eb-8b9f-0242ac110002&terminate=false&userId=",
-        "categories": [
-            {
-                "name": "Series",
-                "slug": "series"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Pluto TV MTV The Shores (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/zUWMjv1.png",
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf32c2a5068259a32320fc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5caf32c2a5068259a32320fc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=d49824ea-0587-11eb-82fe-0242ac110002&terminate=false&userId=",
         "categories": [
             {
                 "name": "Series",
@@ -42999,29 +41638,6 @@
             {
                 "name": "News",
                 "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "TV4 (360p)",
-        "logo": "https://i.imgur.com/CRvQ6sF.png",
-        "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_001/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Legislative",
-                "slug": "legislative"
             }
         ],
         "countries": [
@@ -45273,29 +43889,6 @@
         ]
     },
     {
-        "name": "CNN News 18 (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/WrmeIco.png",
-        "url": "https://ythls.onrender.com/channel/UCef1-8eOpJgud7szVPlZQAQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Dubai Racing (1080p)",
         "logo": "https://i.imgur.com/BpcV8jS.png",
         "url": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8",
@@ -45503,29 +44096,6 @@
         ]
     },
     {
-        "name": "TV Assembleia Minas Gerais (720p)",
-        "logo": "https://i.imgur.com/YOuCxKa.png",
-        "url": "https://ythls.onrender.com/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8",
-        "categories": [
-            {
-                "name": "Legislative",
-                "slug": "legislative"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Brazil",
-                "code": "br"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "TV Birigui (320p)",
         "logo": "https://i.imgur.com/VqIzaFz.png",
         "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
@@ -45710,29 +44280,6 @@
         ]
     },
     {
-        "name": "Prime Canada TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Vji81jB.png",
-        "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Canada",
-                "code": "ca"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "TV Punjab (720p)",
         "logo": "https://i.ibb.co/JnxNMNq/logo-2022.png",
         "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
@@ -45848,29 +44395,6 @@
         ]
     },
     {
-        "name": "Meganoticias (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png",
-        "url": "https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "SEO TV 5 Deportes (1080p)",
         "logo": "https://i.imgur.com/N56B7si.png",
         "url": "https://live.seo.tv.bo/live/5SEO.m3u8",
@@ -45940,29 +44464,6 @@
         ]
     },
     {
-        "name": "T13 (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/PktzDCH.png",
-        "url": "https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Chile",
-                "code": "cl"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Cablenoticias (1080p)",
         "logo": "https://i.imgur.com/FfhOGR9.png",
         "url": "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8",
@@ -45990,33 +44491,6 @@
         "logo": "https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png",
         "url": "https://servidordevideo.com:3077/live/despechadalive.m3u8",
         "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Colombia",
-                "code": "co"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Ondambiental TV (360p)",
-        "logo": "https://i.imgur.com/u5804Au.jpg",
-        "url": "https://server12.videostreaming.net:3230/stream/play.m3u8",
-        "categories": [
-            {
-                "name": "Culture",
-                "slug": "culture"
-            },
             {
                 "name": "Music",
                 "slug": "music"
@@ -46072,60 +44546,6 @@
             {
                 "name": "Colombia",
                 "code": "co"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Telesangil (720p) [Not 24/7]",
-        "logo": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
-        "url": "https://hvtraficonew.ddns.net/tvsangil/tvsangil_360p/index.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Colombia",
-                "code": "co"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "earthTV (1080p)",
-        "logo": "https://i.imgur.com/xIc5vKl.png",
-        "url": "https://ythls.onrender.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8",
-        "categories": [
-            {
-                "name": "Education",
-                "slug": "education"
-            },
-            {
-                "name": "Outdoor",
-                "slug": "outdoor"
-            },
-            {
-                "name": "Relax",
-                "slug": "relax"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Germany",
-                "code": "de"
             }
         ],
         "languages": [
@@ -46788,29 +45208,6 @@
         ]
     },
     {
-        "name": "TVPI Bayonne",
-        "logo": "https://i.imgur.com/fuqpmas.png",
-        "url": "https://ythls.onrender.com/channel/UCwVQAPo6tjC5w5yBBh0WEdA.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "France",
-                "code": "fr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "10 Channel (720p)",
         "logo": "https://i.ibb.co/0XMM4gn/download-7.png",
         "url": "https://tv.mediacp.eu:8081/10channel/index.m3u8",
@@ -47110,29 +45507,6 @@
         ]
     },
     {
-        "name": "Real Music TV (720p)",
-        "logo": "https://i.ibb.co/0t1KZR0/331060270-1228498987772287-4242923007504860527-n.jpg",
-        "url": "https://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Greece",
-                "code": "gr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "RedMusic (720p)",
         "logo": "https://i.ibb.co/1Lk8P1x/1-150x150.png",
         "url": "https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8",
@@ -47294,29 +45668,6 @@
         ]
     },
     {
-        "name": "NYTV (1080p) [Not 24/7]",
-        "logo": "https://i.ibb.co/pxnFBdM/logo-1.jpg",
-        "url": "https://ythls.onrender.com/channel/UCx7cFh63AWsK3cbfgX3GaaQ.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Hungary",
-                "code": "hu"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "SIXO TV (360p)",
         "logo": "https://i.ibb.co/GTPs9Xy/9068.png",
         "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
@@ -47416,29 +45767,6 @@
             {
                 "name": "Religious",
                 "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Indonesia",
-                "code": "id"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "ATVLI Channel (720p)",
-        "logo": "https://i.ibb.co/4mDdGMs/IMG-20230629-145746.jpg",
-        "url": "https://wowza.convergen.co/atvli/atvli.stream/playlist.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
             }
         ],
         "countries": [
@@ -47601,52 +45929,6 @@
         ]
     },
     {
-        "name": "TVR Parlemen (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/2XYpmHL.png",
-        "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Legislative",
-                "slug": "legislative"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Indonesia",
-                "code": "id"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "ABP Asmita (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png",
-        "url": "https://ythls.onrender.com/channel/UC3C6_1ETXfE807LltDbKYxg.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "B4U Hitz (576p)",
         "logo": "https://i.ibb.co/7bQ1nq3/11591447-46ac-487e-ac65-d8c20a5d18a0.jpg",
         "url": "http://183.89.246.119:8881/play/a08l/index.m3u8",
@@ -47716,29 +45998,6 @@
         ]
     },
     {
-        "name": "Bharat 24 (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Jx1OX9N.png",
-        "url": "https://ythls.onrender.com/channel/UCCQmi1Bd-_tHRm6M2uPlGUA.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Captain News (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/ekQrIaO.png",
         "url": "https://ythls.onrender.com/channel/UCno6OgN7-NDmRTNBgqWevlw.m3u8",
@@ -47746,75 +46005,6 @@
             {
                 "name": "News",
                 "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Channel Dinraat (720p) [Not 24/7]",
-        "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/14/Channel_Dinraat_logo.png",
-        "url": "https://ythls.onrender.com/channel/UCILYNzZvWNUPaALmDJBIMAw.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "CNBC Awaaz (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png",
-        "url": "https://ythls.onrender.com/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8",
-        "categories": [
-            {
-                "name": "Business",
-                "slug": "business"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "CNBC TV18 (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",
-        "url": "https://ythls.onrender.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8",
-        "categories": [
-            {
-                "name": "Business",
-                "slug": "business"
             }
         ],
         "countries": [
@@ -47907,29 +46097,6 @@
             {
                 "name": "Entertainment",
                 "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "ETV Andhra Pradesh (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/pFNCRnf.png",
-        "url": "https://ythls.onrender.com/channel/UCJi8M0hRKjz8SLPvJKEVTOg.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
             }
         ],
         "countries": [
@@ -48134,75 +46301,6 @@
         ]
     },
     {
-        "name": "iNEWS (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/IV1O11i.png",
-        "url": "https://ythls.onrender.com/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Lokshahi News (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/bpgdafu.png",
-        "url": "https://ythls.onrender.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Mahaa News (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/buT76vR.png",
-        "url": "https://ythls.onrender.com/channel/UCDKjhgRoPF1CQk7HluMz23A.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Metro TV (576p)",
         "logo": "https://i.ibb.co/CBgJ4QV/metro-logo.jpg",
         "url": "https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8",
@@ -48295,328 +46393,6 @@
         ]
     },
     {
-        "name": "News18 Assam North-East (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/1cQvTeS.png",
-        "url": "https://ythls.onrender.com/channel/UCAjBd-r8JWfnRjfhg23nqLQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Bangla (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/l6Ndjnh.png",
-        "url": "https://ythls.onrender.com/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Bihar Jharkhand (1080p)",
-        "logo": "https://i.imgur.com/FQ3zDZE.png",
-        "url": "https://ythls.onrender.com/channel/UC531MlZA5LUbeGwEN_zcppw.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Gujarati (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/eOE40nk.png",
-        "url": "https://ythls.onrender.com/channel/UCqfX_f4rBbPhq_KESE4saCA.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 India (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/5VLCwbt.png",
-        "url": "https://ythls.onrender.com/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Kerala (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/AsIdc9P.png",
-        "url": "https://ythls.onrender.com/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Lokmat (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/SjbtAFh.png",
-        "url": "https://ythls.onrender.com/channel/UCrcpw88HvKJ0skdsHniCJtQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Madhya Pradesh/Chhattisgarh (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Yhg2eLH.png",
-        "url": "https://ythls.onrender.com/channel/UCBwc2cbPpvxNCNEI2-8YrqQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Odia (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/CmuooL9.png",
-        "url": "https://ythls.onrender.com/channel/UCUK49UvmYWYLiB7_bZFuFZQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Punjab/Haryana/Himachal (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/iWpFxF7.png",
-        "url": "https://ythls.onrender.com/channel/UC-crZTQNRzZgzyighTKF0nQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Rajasthan (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Y7c0omK.png",
-        "url": "https://ythls.onrender.com/channel/UC7FlLbNo66YsCEAPuJITiNg.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News 18 Tamil (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/htYVkpy.png",
-        "url": "https://ythls.onrender.com/channel/UCat88i6_rELqI_prwvjspRA.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Urdu (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/8xnwMRR.png",
-        "url": "https://ythls.onrender.com/channel/UC9IQhNgS43lmUdU-KdGyb0A.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "News18 Uttar Pradesh Uttarakhand [Not 24/7]",
-        "logo": "https://i.imgur.com/VcwkEDM.png",
-        "url": "https://ythls.onrender.com/channel/UCafYgzpyw7aIUYOLjjADu7w.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "News 24 (720p)",
         "logo": "https://i.imgur.com/x72O77X.png",
         "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
@@ -48663,55 +46439,9 @@
         ]
     },
     {
-        "name": "News State UP & UK (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/dQLaY5N.png",
-        "url": "https://ythls.onrender.com/channel/UCeNP3dAy9_A32IWYZq_PZMQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Pratham Khabar 24x7 (576p)",
         "logo": "https://i.imgur.com/HNsg5Px.png",
         "url": "https://livelegitpro.in/hls2/newstime/index.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Prime9 News (720p) [Not 24/7]",
-        "logo": "https://prime9news.com/wp-content/themes/prime9_v1/images/logo.png",
-        "url": "https://ythls.onrender.com/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8",
         "categories": [
             {
                 "name": "News",
@@ -48870,52 +46600,6 @@
         ]
     },
     {
-        "name": "Sandesh News (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/JAJxEj3.png",
-        "url": "https://ythls.onrender.com/channel/UCiAH2s_M6nPfGZk-PpfyPkg.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Sansad TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/TWSZC2H.png",
-        "url": "https://ythls.onrender.com/channel/UCISgnSNwqQ2i8lhCun3KtQg.m3u8",
-        "categories": [
-            {
-                "name": "Legislative",
-                "slug": "legislative"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Shree Bangla (576p) [Not 24/7]",
         "logo": "https://www.jagobd.com/wp-content/uploads/2022/07/shreebangla.jpg",
         "url": "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/shreebangla.stream/playlist.m3u8",
@@ -48962,55 +46646,9 @@
         ]
     },
     {
-        "name": "TV5 News (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/aOrvsYj.png",
-        "url": "https://ythls.onrender.com/channel/UCAR3h_9fLV82N2FH4cE4RKw.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "TV9 Kannada (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/S3Ded70.png",
         "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "V6 News (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ctyGkhe.png",
-        "url": "https://ythls.onrender.com/channel/UCDCMjD1XIAsCZsYHNMGVcog.m3u8",
         "categories": [
             {
                 "name": "News",
@@ -49038,29 +46676,6 @@
             {
                 "name": "Religious",
                 "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "India",
-                "code": "in"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Zee Telugu News (720p) [Not 24/7]",
-        "logo": "https://i.ibb.co/r7VrjKV/Zee-Telugu-News-2022-1.png",
-        "url": "https://ythls.onrender.com/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
             }
         ],
         "countries": [
@@ -50189,52 +47804,6 @@
         ]
     },
     {
-        "name": "NewSignal (1080p)",
-        "logo": "https://i.imgur.com/UnZoS95.png",
-        "url": "https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Italy",
-                "code": "it"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "TBS News (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/hk0oZab.png",
-        "url": "https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Japan",
-                "code": "jp"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "BBS Buddhist Broadcasting (1080p)",
         "logo": "https://i.imgur.com/01UmXRe.png",
         "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
@@ -50261,29 +47830,6 @@
         "name": "BTN TV (1080p)",
         "logo": "https://i.imgur.com/sOoS7RQ.png",
         "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Religious",
-                "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Korea, Rep.",
-                "code": "kr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "C Channel (1080p) [Not 24/7]",
-        "logo": "https://i.ibb.co/GC73Fxt/logo.png",
-        "url": "https://ythls.onrender.com/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8",
         "categories": [
             {
                 "name": "Religious",
@@ -50718,29 +48264,6 @@
         ]
     },
     {
-        "name": "YTN (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png",
-        "url": "https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Korea, Rep.",
-                "code": "kr"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Lao Champa TV 2 (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/pbWHenM.png",
         "url": "https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/playlist.m3u8",
@@ -50856,33 +48379,6 @@
         ]
     },
     {
-        "name": "Canal 66 Mexicali (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/rSeR402.png",
-        "url": "https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            },
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Mexico",
-                "code": "mx"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Canal Ocho TV (1080p)",
         "logo": "https://i.ibb.co/YND5HXD/Captura.png",
         "url": "https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8",
@@ -50955,29 +48451,6 @@
         "name": "92 News HD (720p)",
         "logo": "https://i.imgur.com/XqQOUi7.png",
         "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Pakistan",
-                "code": "pk"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Bol News (1080p)",
-        "logo": "https://i.imgur.com/chHLi5u.png",
-        "url": "https://ythls.onrender.com/channel/UCz2yxQJZgiB_5elTzqV7FiQ.m3u8",
         "categories": [
             {
                 "name": "News",
@@ -51090,75 +48563,6 @@
         ]
     },
     {
-        "name": "Best Cable Mas Cumbia",
-        "logo": "https://i.imgur.com/zgEvssl.png",
-        "url": "https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Peru",
-                "code": "pe"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Best Cable Music",
-        "logo": "https://i.imgur.com/PXm4osQ.png",
-        "url": "https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Peru",
-                "code": "pe"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Best Cable Sports Peru",
-        "logo": "https://i.imgur.com/nflqmSC.png",
-        "url": "https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8",
-        "categories": [
-            {
-                "name": "Sports",
-                "slug": "sports"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Peru",
-                "code": "pe"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Congreso TV [Not 24/7]",
         "logo": "https://i.imgur.com/r0foZ5t.png",
         "url": "https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8",
@@ -51166,29 +48570,6 @@
             {
                 "name": "Legislative",
                 "slug": "legislative"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Peru",
-                "code": "pe"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Hatun TV",
-        "logo": "https://i.imgur.com/cWz2vgV.png",
-        "url": "https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
             }
         ],
         "countries": [
@@ -51274,29 +48655,6 @@
         ]
     },
     {
-        "name": "PTV 4 (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/T3jDOEq.png",
-        "url": "https://ythls.onrender.com/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Philippines",
-                "code": "ph"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "SMNI News Channel (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/OZA4xPq.png",
         "url": "https://ythls.onrender.com/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8",
@@ -51310,29 +48668,6 @@
             {
                 "name": "Philippines",
                 "code": "ph"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Telewizja Zabrze (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/O9eDefP.png",
-        "url": "https://ythls.onrender.com/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8",
-        "categories": [
-            {
-                "name": "General",
-                "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Poland",
-                "code": "pl"
             }
         ],
         "languages": [
@@ -51754,29 +49089,6 @@
         ]
     },
     {
-        "name": "Sehara TV (720p)",
-        "logo": "https://i.imgur.com/189FW4H.png",
-        "url": "http://ip2.xxlservices.com:8081/seharaonline/live/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Music",
-                "slug": "music"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Slovenia",
-                "code": "si"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Halab Today TV (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/fY8UKs7.png",
         "url": "https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8",
@@ -51951,52 +49263,6 @@
             {
                 "name": "Ukraine",
                 "code": "ua"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "ABC 9 Kansas City MO (KMBC-TV) (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/DCBHkiP.jpg",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Access Sarasota (Sarasota County FL) (1080p)",
-        "logo": "https://i.imgur.com/XrEXXHn.png",
-        "url": "https://ythls.onrender.com/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8",
-        "categories": [
-            {
-                "name": "Legislative",
-                "slug": "legislative"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
             }
         ],
         "languages": [
@@ -52214,29 +49480,6 @@
         ]
     },
     {
-        "name": "GCN Empower TV (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/K4yqN0S.png",
-        "url": "https://ythls.onrender.com/channel/UCoRq_Eg3xg4Ed0NJKhRYiQA.m3u8",
-        "categories": [
-            {
-                "name": "Religious",
-                "slug": "religious"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Hope4Life TV (720p)",
         "logo": "https://i.imgur.com/p24tAjs.jpg",
         "url": "http://144.217.14.88/hls/hope4life.m3u8",
@@ -52267,167 +49510,6 @@
             {
                 "name": "Classic",
                 "slug": "classic"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "KCCI-TV News Des Moines IA (720p)",
-        "logo": "https://i.imgur.com/6xjshQj.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "KCRA-TV News Sacramento CA (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "KHBS-TV News Fort Smith AR (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "KOAT-TV News Albuquerque NM (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "KSBW-TV News Salinas CA (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Localish (720p)",
-        "logo": "https://i.imgur.com/ACEbGD5.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8",
-        "categories": [
-            {
-                "name": "Lifestyle",
-                "slug": "lifestyle"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Logos TV Mubasher (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/h8DioXU.png",
-        "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8",
-        "categories": [
-            {
-                "name": "Religious",
-                "slug": "religious"
             }
         ],
         "countries": [
@@ -52697,29 +49779,6 @@
         ]
     },
     {
-        "name": "Today All Day (720p)",
-        "logo": "https://i.imgur.com/LhbQ8Mr.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "Tokushoutsu",
         "logo": "https://i.imgur.com/Ol0BBiV.png",
         "url": "https://amg00163-shoutfactory-tokushoutsu-dmr-c1irg.amagi.tv/playlist/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8",
@@ -52812,75 +49871,6 @@
         ]
     },
     {
-        "name": "WAPT-TV News Jackson MS (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "WESH-TV News Orlando FL (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "WGAL-TV News Lancaster PA (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "WHPS Detroit (WHPS-CD 2)",
         "logo": "https://i.imgur.com/KW1iQ5W.png",
         "url": "https://hls-live-media.cdn01.net/default/stream_46366.m3u8?source=othersites",
@@ -52888,52 +49878,6 @@
             {
                 "name": "General",
                 "slug": "general"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "WJCL-TV News Savannah GA (720p)",
-        "logo": "https://i.imgur.com/Q4B9h5L.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "WLKY-TV News Louisville KY (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
             }
         ],
         "countries": [
@@ -52973,75 +49917,6 @@
         ]
     },
     {
-        "name": "WMTW-TV News Portland ME (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "WPBF-TV News West Palm Beach FL (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "WPTZ-TV News Plattsburgh NY (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
-        "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8",
-        "categories": [
-            {
-                "name": "News",
-                "slug": "news"
-            }
-        ],
-        "countries": [
-            {
-                "name": "United States",
-                "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
         "name": "WZRA-CD1 (480p)",
         "logo": "https://i.imgur.com/3sGvcLx.png",
         "url": "http://wpso.com:1936/hls/wzra.m3u8",
@@ -53055,52 +49930,6 @@
             {
                 "name": "United States",
                 "code": "us"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Aguacate TV (1080p)",
-        "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
-        "url": "https://streamtv.intervenhosting.net:3378/hybrid/play.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Venezuela, RB",
-                "code": "ve"
-            }
-        ],
-        "languages": [
-            {
-                "name": "English",
-                "code": "en"
-            }
-        ]
-    },
-    {
-        "name": "Guaro TV (1080p)",
-        "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
-        "url": "https://streamtv.intervenhosting.net:3180/hybrid/play.m3u8",
-        "categories": [
-            {
-                "name": "Entertainment",
-                "slug": "entertainment"
-            }
-        ],
-        "countries": [
-            {
-                "name": "Venezuela, RB",
-                "code": "ve"
             }
         ],
         "languages": [
